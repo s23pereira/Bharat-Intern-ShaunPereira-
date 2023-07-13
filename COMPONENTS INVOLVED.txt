@@ -1,0 +1,13 @@
+NodeMCU (ESP-8266)
+
+ARDUINO UNO
+
+Ultrasonic Sensor SRF - 04
+
+Servo Motor SG90
+
+Infrared Sensor (IR)
+
+Map of the area
+
+Payment Module
